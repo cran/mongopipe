@@ -60,5 +60,5 @@ project(x, ...)
 Object of type mongopipe.
 }
 \description{
-These functions translate R code to json readably by Mongodb.
+These functions translate R code to json readable by Mongodb.
 }

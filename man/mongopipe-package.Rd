@@ -3,14 +3,14 @@
 \docType{package}
 \name{mongopipe-package}
 \alias{mongopipe-package}
-\alias{_PACKAGE}
-\title{mongopipe: Query MongoDB Documents with R}
+\title{mongopipe: Write MongoDB Queries with R}
 \description{
 Translate R code into MongoDB aggregation pipelines.
 }
 \seealso{
 Useful links:
 \itemize{
+  \item \url{https://rpkgs.gitlab.io/mongopipe}
   \item \url{https://gitlab.com/rpkgs/mongopipe}
   \item Report bugs at \url{https://gitlab.com/rpkgs/mongopipe/-/issues}
 }

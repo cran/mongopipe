@@ -1,6 +1,6 @@
 #' Pipeline Stages
 #'
-#' These functions translate R code to json readably by Mongodb.
+#' These functions translate R code to json readable by Mongodb.
 #'
 #' @param x Object of class `mongopipe`
 #' @param ... list object

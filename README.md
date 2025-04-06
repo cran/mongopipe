@@ -6,7 +6,7 @@
 <!-- badges: start -->
 
 [![Lifecycle:
-experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/mongopipe)](https://CRAN.R-project.org/package=mongopipe)
 <!-- badges: end -->
@@ -16,14 +16,14 @@ json based queries for Mongodb.
 
 ## Installation
 
-<!--
-You can install the released version of mongopipe from [CRAN](https://CRAN.R-project.org) with:
-``` r
-# install.packages("mongopipe") # Not possible yet
-```
- -->
+You can install the released version of mongopipe from
+[CRAN](https://CRAN.R-project.org) with:
 
-You can install the development version of mongopipe on
+``` r
+install.packages("mongopipe")
+```
+
+or install the development version of mongopipe on
 [gitlab](https://gitlab.com/rpkgs/mongopipe) with:
 
 ``` r
